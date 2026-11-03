@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Operating Systems Explorer",
+    "category": "Learning Tool",
+    "description": "An interactive guide to processes, threads, scheduling, and memory management.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "link": ""
+  },
+  {
+    "title": "ML Metrics Toolkit",
+    "category": "Machine Learning",
+    "description": "A visual way to understand accuracy, precision, recall, F1 score, and confusion matrices.",
+    "technologies": ["JavaScript", "Data Visualization"],
+    "link": ""
+  },
+  {
+    "title": "Study Planner",
+    "category": "Productivity App",
+    "description": "A simple dashboard for tracking coursework, goals, and progress.",
+    "technologies": ["Node.js", "JavaScript", "JSON"],
+    "link": ""
+  }
+]
