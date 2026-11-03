@@ -85,3 +85,19 @@ form.addEventListener('submit', event => {
 });
 
 loadProjects();
+
+.hero-copy {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-art .orbit,
+.hero-art .floating-tag {
+  pointer-events: none;
+}
+
+.social-links a {
+  position: relative;
+  z-index: 3;
+  cursor: pointer;
+}
