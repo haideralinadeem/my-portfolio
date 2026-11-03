@@ -12,11 +12,7 @@ function element(tag, className, text) {
 }
 
 async function loadProjects() {
-  try {
-    const response = await fetch('./data/projects.json');
-    if (!response.ok) throw new Error('Unable to load projects');
-    const projects = await response.json();
-    projectGrid.replaceChildren();
+ 
 
     projects.forEach((project, index) => {
       const card = element('article', 'project-card');
