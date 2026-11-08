@@ -1,5 +1,12 @@
 [
   {
+    "title": "SpendWise",
+    "category": "Full-Stack Web App",
+    "description": "Personal finance manager with secure login, transactions, budgets, savings goals, analytics, and PDF/CSV reports in PKR. Built on a PostgreSQL database with row-level security.",
+    "technologies": ["React", "TypeScript", "Supabase", "PostgreSQL", "Tailwind CSS"],
+    "link": "https://haideralinadeem.github.io/spend-wise/"
+  },
+  {
     "title": "Operating Systems Explorer",
     "category": "Learning Tool",
     "description": "An interactive guide to processes, threads, scheduling, and memory management.",
